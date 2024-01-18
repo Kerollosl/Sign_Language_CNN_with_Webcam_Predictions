@@ -24,7 +24,7 @@ Steps:
 	1. Run categorical_classification_sign_language.py to generate a model.h5 file.
         2. Run convert_to_json.py to convert the model.h5 file to a model.json file along with the associated bin files. (This currently must be done with a notebook IDE 
 	   such as Jupyter Notebook or Google Colab)
-	3. Mode the Converted Files to the "Sign Language HTML" directory. Ensure that the 
+	3. Move the Converted Files to the "Sign Language HTML" directory. Ensure that the 
 	   model.json file name matches that referenced in the index.js file in this 
 	   directory.
 	4. Run the "homepage" HTML file with an Internet server to generate live webcam 
