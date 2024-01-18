@@ -9,7 +9,7 @@ Environment
 
 *Project Adapted from DeepLearning.ai TensorFlow Developer Certificate and TensorFlow Data dn Deployment Certificate Labs*
 
-*Accuracy of HTML Webcam predictions is currently not 
+*Accuracy of HTML Webcam predictions is currently not at viable level. Project is currently a proof of concept*
 
 Instructions
 
