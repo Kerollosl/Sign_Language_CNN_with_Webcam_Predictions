@@ -17,8 +17,8 @@ Files Needed in Common Directory:
 	- functions.py
 	- convert_to_json.py
 	- categorical_classification_sign_language.py
-	- sign_mnist_train.csv
-	- sign_mnist_test.csv
+	- sign_mnist_train.csv (Can be downloaded from https://www.kaggle.com/datasets/datamunge/sign-language-mnist?select=sign_mnist_train)
+	- sign_mnist_test.csv (Can be downloaded from https://www.kaggle.com/datasets/datamunge/sign-language-mnist?select=sign_mnist_test)
 
 Steps:
 	1. Run categorical_classification_sign_language.py to generate a model.h5 file.
